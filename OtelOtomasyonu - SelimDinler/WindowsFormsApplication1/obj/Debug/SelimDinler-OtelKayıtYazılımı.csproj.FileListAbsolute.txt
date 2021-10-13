@@ -1,0 +1,22 @@
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\SelimDinler-OtelKayıtYazılımı.csproj.GenerateResource.Cache
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\selim\Desktop\Pansiyon Kiralama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giriş.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Giriş.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\SelimDinler-OtelKayıtYazılımı.csproj.GenerateResource.Cache
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\SelimDinler-OtelKayıtYazılımı.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\SELİM DİNLER - 289\WindowsFormsApplication1\obj\Debug\SelimDinler-OtelKayıtYazılımı.csproj.CoreCompileInputs.cache
